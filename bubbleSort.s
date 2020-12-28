@@ -1,3 +1,8 @@
+/*
+Bubble sort: sorts in place by swapping values and repeating this swapping process within a loop. The SWAP subroutine was used for this.
+LIST holds the list of numbers to be sorted
+*/
+
 .text
 .global _start
 _start:
