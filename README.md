@@ -9,3 +9,7 @@
 <p><strong>InterruptsLab:&nbsp;</strong>Use interrupts to repeat the sweeping LEDs triggered by a KEY lab above. </p>
 <p><strong>bubbleSort:&nbsp;</strong>Sorting a list of 32-bit unsigned numbers in ascending order using bubble sort. </p>
 <p><strong>insertSorted:&nbsp;</strong>Takes in a sorted list of numbers and an input, inserts the input in the correct spot. </p>
+<p><strong>countNegatives:&nbsp;</strong>Takes in a list of numbers of length N and returns the amount of negative numbers. </p>
+<p><strong>longestAscending:&nbsp;</strong>Takes in a list of numbers of length N and returns the length of the longest ascending sequence. </p>
+<p><strong>airBagIO:&nbsp;</strong>Triggers airbag I/O when above a certain threshold using interrupts, I/O details in file. </p>
+<p><strong>pollingConvert:&nbsp;</strong>Reads channels from an I/O via polling, converts them, and overwrite previous channels using converted. </p>
