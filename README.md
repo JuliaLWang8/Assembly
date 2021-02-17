@@ -1,5 +1,5 @@
 # Assembly
-<p>My labs and personal projects in ARM Assembly language. Labs from ECE253 Digital and Computer Systems course.</p>
+<p>My labs and personal projects in ARM Assembly language. The labs (first 3 below) are from ECE253 - Digital and Computer Systems course.</p>
 <p><strong>ARMIntro:&nbsp;</strong></p>
 <ul>
     <li>Part 1: summed the elements of a positive list of numbers into R7</li>
