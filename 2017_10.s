@@ -1,3 +1,5 @@
+// my response to ECE253's 2017 exam question 10 for practice
+// 2017 exam here: http://exams.skule.ca/exams/bulk/20179/ECE253F_2017_DIGITALANDCOMPUTERSYSTEMS_E.pdf 
 .global _start
 _start:
 
